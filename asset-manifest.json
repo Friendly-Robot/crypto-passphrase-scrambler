@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crypto-passphrase-scrambler/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/crypto-passphrase-scrambler/static/js/main.54f455d8.chunk.js",
+    "main.js.map": "/crypto-passphrase-scrambler/static/js/main.54f455d8.chunk.js.map",
+    "runtime-main.js": "/crypto-passphrase-scrambler/static/js/runtime-main.35a2d438.js",
+    "runtime-main.js.map": "/crypto-passphrase-scrambler/static/js/runtime-main.35a2d438.js.map",
+    "static/js/2.1630e7b6.chunk.js": "/crypto-passphrase-scrambler/static/js/2.1630e7b6.chunk.js",
+    "static/js/2.1630e7b6.chunk.js.map": "/crypto-passphrase-scrambler/static/js/2.1630e7b6.chunk.js.map",
+    "static/js/3.03424a28.chunk.js": "/crypto-passphrase-scrambler/static/js/3.03424a28.chunk.js",
+    "static/js/3.03424a28.chunk.js.map": "/crypto-passphrase-scrambler/static/js/3.03424a28.chunk.js.map",
+    "index.html": "/crypto-passphrase-scrambler/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/crypto-passphrase-scrambler/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1630e7b6.chunk.js.LICENSE.txt": "/crypto-passphrase-scrambler/static/js/2.1630e7b6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/crypto-passphrase-scrambler/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a2d438.js",
+    "static/js/2.1630e7b6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.54f455d8.chunk.js"
+  ]
+}
